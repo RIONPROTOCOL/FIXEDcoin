@@ -1,3 +1,7 @@
+> ⚠️ **NOTICE (Updated June 2, 2025):**  
+> FIXEDcoin is no longer the active system token for the RION or Mixed OS ecosystem.  
+> The official licensing and governance token is now [**MIDOM**](https://github.com/RIONPROTOCOL/MIDOM-token).
+
 # FIXEDcoin
 “FIXEDcoin is a voice-activated, behavior-linked scan-to-earn rail built by RION. Launching 6/6/2025.”
 
